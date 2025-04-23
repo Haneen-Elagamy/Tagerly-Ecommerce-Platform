@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net DEPI\\Tagerly_DEPI\\Tagerly_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj": {}
+    "C:\\Users\\Online\\source\\repos\\Tagerly-Ecommerce-Platform\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj": {}
   },
   "projects": {
-    "D:\\.Net DEPI\\Tagerly_DEPI\\Tagerly_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj": {
+    "C:\\Users\\Online\\source\\repos\\Tagerly-Ecommerce-Platform\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net DEPI\\Tagerly_DEPI\\Tagerly_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Online\\source\\repos\\Tagerly-Ecommerce-Platform\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj",
         "projectName": "Tagerly_MVC_Project",
-        "projectPath": "D:\\.Net DEPI\\Tagerly_DEPI\\Tagerly_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj",
-        "packagesPath": "C:\\Users\\Computec\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net DEPI\\Tagerly_DEPI\\Tagerly_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\obj\\",
+        "projectPath": "C:\\Users\\Online\\source\\repos\\Tagerly-Ecommerce-Platform\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\Tagerly_MVC_Project.csproj",
+        "packagesPath": "C:\\Users\\Online\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Online\\Source\\Repos\\Tagerly-Ecommerce-Platform\\Tagerly_MVC_Project\\Tagerly_MVC_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Computec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Online\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,7 +25,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

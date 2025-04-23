@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tagerly_MVC_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3d8975faaa0608437901058a75e5c831bf0fabf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+081540b8d5285a2b2628f273e20903028291e02c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tagerly_MVC_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tagerly_MVC_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
